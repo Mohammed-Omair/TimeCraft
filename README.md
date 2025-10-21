@@ -1,6 +1,7 @@
 # TimeCraft — Your Daily Efficiency Companion
 
 Effortlessly manage tasks, stay focused with Pomodoro, build habits, and understand where your time goes — all in one beautiful mobile app.
+Link to APK: [https://drive.google.com/file/d/1jeq7j8nSykWnfNhPbgkTtCGUzliG1cXi/view?usp=sharing](https://drive.google.com/file/d/1jeq7j8nSykWnfNhPbgkTtCGUzliG1cXi/view?usp=sharing)
 
 > **Note:** This project was created for **CSE 5320 STSE** (University of Texas at Arlington).
 
