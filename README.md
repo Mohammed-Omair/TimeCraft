@@ -47,7 +47,6 @@ Effortlessly manage tasks, stay focused with Pomodoro, build habits, and underst
 | Sign In | [<img src="docs/screenshots/Login.png" alt="Login" width="260">](docs/screenshots/Login.png) |
 | Focus | [<img src="docs/screenshots/Pomodoro.png" alt="Focus" width="260">](docs/screenshots/Pomodoro.png) |
 | Welcome / Onboarding | [<img src="docs/screenshots/Welcome.png" alt="Welcome" width="260">](docs/screenshots/Welcome.png) |
-| Category Onboarding | [<img src="docs/screenshots/untitled.png" alt="Category" width="260">](docs/screenshots/untitled.png) |
 
 ---
 
