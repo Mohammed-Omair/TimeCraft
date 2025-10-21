@@ -165,7 +165,7 @@ npm run ios
 
 ## License
 
-MIT (add a `LICENSE` file in the repository if not already present).
+MIT
 
 ---
 
