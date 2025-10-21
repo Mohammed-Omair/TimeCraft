@@ -40,15 +40,15 @@ Effortlessly manage tasks, stay focused with Pomodoro, build habits, and underst
 
 | Screen | Image |
 |---|---|
-| Tasks & Lists | ![<img src="docs/screenshots/01.png" alt="Tasks" width="260">](docs/screenshots/01.png) |
-| Pomodoro | ![Pomodoro](docs/screenshots/02.png) |
-| Create Task | ![Create Task](docs/screenshots/03.png) |
-| Profile & Settings | ![Profile](docs/screenshots/04.png) |
-| Habit Task | ![Habit Task](docs/screenshots/Habit-Task.png) |
-| Sign In | ![Login](docs/screenshots/Login.png) |
-| Focus | ![Focus](docs/screenshots/Pomodoro.png) |
-| Welcome / Onboarding | ![Welcome](docs/screenshots/Welcome.png) |
-| Category Onboarding | ![Category](docs/screenshots/untitled.png) |
+| Tasks & Lists | [<img src="docs/screenshots/01.png" alt="Tasks" width="260">](docs/screenshots/01.png) |
+| Pomodoro | [<img src="docs/screenshots/02.png" alt="Pomodoro" width="260">](docs/screenshots/02.png) |
+| Create Task | [<img src="docs/screenshots/03.png" alt="Create Task" width="260">](docs/screenshots/03.png) |
+| Profile & Settings | [<img src="docs/screenshots/04.png" alt="Profile" width="260">](docs/screenshots/04.png) |
+| Habit Task | [<img src="docs/screenshots/Habit-Task.png" alt="Habit Task" width="260">](docs/screenshots/Habit-Task.png) |
+| Sign In | [<img src="docs/screenshots/Login.png" alt="Login" width="260">](docs/screenshots/Login.png) |
+| Focus | [<img src="docs/screenshots/Pomodoro.png" alt="Focus" width="260">](docs/screenshots/Pomodoro.png) |
+| Welcome / Onboarding | [<img src="docs/screenshots/Welcome.png" alt="Welcome" width="260">](docs/screenshots/Welcome.png) |
+| Category Onboarding | [<img src="docs/screenshots/untitled.png" alt="Category" width="260">](docs/screenshots/untitled.png) |
 
 ---
 
