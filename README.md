@@ -36,7 +36,6 @@ Effortlessly manage tasks, stay focused with Pomodoro, build habits, and underst
 
 ## Screenshots
 
-> Place images inside `docs/screenshots/` in your repo and keep the same filenames (or update the paths below).
 
 | Screen | Image |
 |---|---|
