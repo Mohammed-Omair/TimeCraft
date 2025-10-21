@@ -40,7 +40,7 @@ Effortlessly manage tasks, stay focused with Pomodoro, build habits, and underst
 
 | Screen | Image |
 |---|---|
-| Tasks & Lists | ![Tasks](docs/screenshots/01.png) |
+| Tasks & Lists | ![<img src="docs/screenshots/01.png" alt="Tasks" width="260">](docs/screenshots/01.png) |
 | Pomodoro | ![Pomodoro](docs/screenshots/02.png) |
 | Create Task | ![Create Task](docs/screenshots/03.png) |
 | Profile & Settings | ![Profile](docs/screenshots/04.png) |
